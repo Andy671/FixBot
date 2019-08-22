@@ -1,4 +1,11 @@
-<div><span><b>unfixxxed</b>: dhjs</span>
+<div><span><b>the_fix_bot</b>: Сегодня мы</span>
+<span>стримим уже 04:01:39 B)</span>
+</div><div><span><b>unfixxxed</b>: !uptime</span>
+</div><div><span><b>drop8dead</b>:</span>
+<span>http://htmlbook.ru/css/word-wrap</span>
+</div><div><span><b>unfixxxed</b>: 😅😅😅😆😀😀</span>
+</div><div><span><b>unfixxxed</b>: thanks 😘</span>
+</div><div><span><b>unfixxxed</b>: dhjs</span>
 </div><div><span><b>the_fix_bot</b>:</span>
 <span>https://github.com/Andy671</span>
 </div><div><span><b>the_fix_bot</b>:</span>
@@ -6,10 +13,3 @@
 </div><div><span><b>the_fix_bot</b>: Список</span>
 <span>доступных команд -> !uptime !about</span>
 <span>!info !telegram !github !link</span>
-<span>MrDestructoid</span>
-</div><div><span><b>honeston</b>: !help</span>
-</div><div><span><b>unfixxxed</b>: ndjdjdjd</span>
-</div><div><span><b>the_fix_bot</b>: Сейчас мой</span>
-<span>создатель кодит чатбота :) (то</span>
-<span>есть Меня)
-(Список доступных</span>
