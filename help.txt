@@ -1,0 +1,1 @@
+Список доступных команд -> !uptime !about !info !telegram !github !link MrDestructoid
