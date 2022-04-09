@@ -12,7 +12,7 @@
   "dependencies": {
     "count-lines-in-file": "^1.1.0",
     "express": "^4.17.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.3.2",
     "read-last-lines": "^1.7.1",
     "tmi.js": "^1.4.5"
